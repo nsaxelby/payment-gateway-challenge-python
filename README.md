@@ -17,4 +17,4 @@ This is the Python version of the Payment Gateway challenge. If you haven't alre
 └── tests/ - folder for tests
 ```
 
-Feel free to change the structure of the solution, use a different test library etc.
+Feel free to change the structure of the solution, use a different test library, etc.
